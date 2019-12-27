@@ -31,10 +31,7 @@
 		}
 	},
 	"extra": {
-		"component": "package",
-		"branch-alias": {
-			"dev-master": "2.0.x-dev"
-		}
+		"component": "package"
 	},
 	"minimum-stability": "stable"
 }
